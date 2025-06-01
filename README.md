@@ -14,11 +14,7 @@ I'm Max, a 32-year-old student passionate about technology and innovation. Curre
 
 ---
 
-### My Skills
+### Languagens and Tools
 
-* 💬 Effective Communication
-* 📊 Data Interpretation and Presentation
-* 🧩 Analytical Vision & Quick Action
-* 🤝 People Skills & Collaboration
-* 🚀 Results-Oriented
-* 💡 Continuous Learning & Curiosity
+Python
+
