@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mgod0y
+- 👋 Hi, I’m Max Godoy
 - 👀 I’m interested in **internships**, **projects**, and **opportunities to learn and grow in software development**.
 - 🌱 I’m currently learning **Multiplatform Software Development at FATEC (Zona Sul)**, focusing on various programming languages and modern development practices.
 - 💞️ I’m looking to collaborate on **innovative software projects, open-source initiatives, or any challenge where I can apply my analytical skills and contribute to a team**.
